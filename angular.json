@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "faceless"
+    }
+  },
+  "defaultProject": "faceless",
+  "cli": {
+    "analytics": false
+  }
 }
